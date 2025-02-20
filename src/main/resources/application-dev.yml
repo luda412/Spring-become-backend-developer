@@ -4,8 +4,8 @@ spring:
 
   datasource:
     url: jdbc:mysql://localhost:3306/blog
-    username: ${DEV_DB_USERNAME}
-    password: ${DEV_DB_PASSWORD}
+    username: root
+    password: Luda0412!@
     driver-class-name: com.mysql.cj.jdbc.Driver
   sql:
     init:
